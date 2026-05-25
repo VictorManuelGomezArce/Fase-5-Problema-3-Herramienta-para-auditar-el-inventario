@@ -1,6 +1,12 @@
 # Problema 3 - Auditoría de Inventario y Reabastecimiento
 # Estudiante: Victor Manuel Gomez Arce
-#
+# Universidad Nacional abierta y a distancia-UNAD
+# Escuela de Ciencias Básicas, Tecnología e Ingeniería ECBTI
+# Fundamentos De Programación
+# Codigo Autoria Propia
+
+# Definición de índices para las columnas de la matriz de inventario#
+
 IDX_CODIGO = 0
 IDX_NOMBRE = 1
 IDX_STOCK_ACTUAL = 2
