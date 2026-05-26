@@ -60,9 +60,9 @@ def main():
     # Matriz con articulos y sus datos: [Código, Nombre, Stock Actual, Stock Mínimo]
     inventario = [
         ["A001", "Arroz", 8, 15],
-        ["A002", "Azúcar", 20, 10],
+        ["A002", "Azúcar", 2, 10],
         ["A003", "Aceite", 5, 12],
-        ["A004", "Café", 12, 12],
+        ["A004", "Café", 1, 12],
         ["A005", "Harina", 3, 8],
     ]
 
